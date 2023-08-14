@@ -9,10 +9,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2023081400;
+$plugin->version = 2023081401;
 $plugin->requires = 2020061500;
 //$plugin->supported = [401, 402];   // Available as of Moodle 3.9.0 or later.
 //plugin->incompatible = TODO;   // Available as of Moodle 3.9.0 or later.
 $plugin->component = 'local_bbzhidehome';
 $plugin->maturity = MATURITY_STABLE;
-$plugin->release = 'v4.2.1';
+$plugin->release = 'v4.2.2';
