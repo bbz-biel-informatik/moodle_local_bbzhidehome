@@ -9,7 +9,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2023081401;
+$plugin->version = 2023081402;
 $plugin->requires = 2020061500;
 //$plugin->supported = [401, 402];   // Available as of Moodle 3.9.0 or later.
 //plugin->incompatible = TODO;   // Available as of Moodle 3.9.0 or later.
